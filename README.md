@@ -1,4 +1,5 @@
 #### [makerroot直达](https://www.makerroot.com/detail/26 "makerroot直达")
+### [登录验证码自动识别](https://www.makerroot.com/detail/35,"登录验证码自动识别")
 ### 打发时间
 > 无聊之际最好打发时间的就是reading and operation，本文章持续更新...
 
