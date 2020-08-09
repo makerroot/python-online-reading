@@ -3,11 +3,17 @@
 ### 打发时间
 > 无聊之际最好打发时间的就是reading and operation，本文章持续更新...
 
-[python进阶](https://eastlakeside.gitbook.io/interpy-zh/ "python进阶")
+### python电子版教程
 
-[python之旅](https://funhacks.gitbooks.io/explore-python/ "python之旅")
+> [python进阶](https://eastlakeside.gitbook.io/interpy-zh/ "python进阶")
 
-[think-python](https://cycleuser.gitbooks.io/think-python/content/ "think-python")
+> [python之旅](https://funhacks.gitbooks.io/explore-python/ "python之旅")
+
+> [think-python](https://cycleuser.gitbooks.io/think-python/content/ "think-python")
+
+### 电子版图书资源
+
+> [图书馆](http://www.banshujiang.cn/ "图书馆")
 
 [酷壳](https://www.coolshell.cn/ "酷壳")
 
@@ -60,8 +66,6 @@
 [kubernetes-handbook](https://jimmysong.io/kubernetes-handbook/ "kubernetes-handbook")
 
 [docker实战篇](https://docker-curriculum.com/#sf-food-trucks "docker实战篇")
-
-[图书馆](http://www.banshujiang.cn/ "图书馆")
 
 [电商网站（Django框架）—— 思维导图](https://blog.csdn.net/xun527/article/details/78376340?locationNum=9&fps=1 "电商网站（Django框架）—— 思维导图")
 
