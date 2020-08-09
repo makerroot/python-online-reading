@@ -64,3 +64,5 @@
 [图书馆](http://www.banshujiang.cn/ "图书馆")
 
 [电商网站（Django框架）—— 思维导图](https://blog.csdn.net/xun527/article/details/78376340?locationNum=9&fps=1 "电商网站（Django框架）—— 思维导图")
+
+[python面试基础题目](https://github.com/taizilongxu/interview_python,'python面试基础题目')
