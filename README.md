@@ -14,6 +14,8 @@
 
 > [think-python](https://cycleuser.gitbooks.io/think-python/content/ "think-python")
 
+> [python3-cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html# "python3-cookbook")
+
 ### 电子版图书资源
 
 > [图书馆](http://www.banshujiang.cn/ "图书馆")
