@@ -16,6 +16,9 @@
 
 > [python3-cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html# "python3-cookbook")
 
+> [python-data-structures-and-algorithms](https://python-data-structures-and-algorithms.readthedocs.io/zh/latest/ "python-data-structures-and-algorithms")
+
+
 ### 电子版图书资源
 
 > [图书馆](http://www.banshujiang.cn/ "图书馆")
