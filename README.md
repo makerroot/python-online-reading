@@ -1,5 +1,3 @@
-#### [makerroot直达](https://www.makerroot.com/detail/26 "makerroot直达")
-
 ### [登录验证码自动识别](https://www.makerroot.com/detail/35 "登录验证码自动识别")
 
 ### 打发时间
@@ -40,6 +38,10 @@
 > [The Aha Moments](http://www.matrix67.com/blog/ "The Aha Moments")
 
 > [jonskeet](https://codeblog.jonskeet.uk/ "jonskeet")
+
+> [田云的博客](https://www.yuque.com/tianyunperfect/ygzsw4/av4s8q)
+
+> [算法在线模拟](https://www.cs.usfca.edu/~galles/visualization/about.html)
 
 ### github好的项目
 
