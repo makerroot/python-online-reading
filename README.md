@@ -43,6 +43,10 @@
 
 > [算法在线模拟](https://www.cs.usfca.edu/~galles/visualization/about.html)
 
+> [labuladong小抄](https://labuladong.gitee.io/algo/) 
+
+> [prince li blog](https://princeli.com/?s)
+
 ### github好的项目
 
 > [分布式二](https://github.com/aphyr/distsys-class "分布式二")
