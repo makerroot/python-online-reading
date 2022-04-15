@@ -43,9 +43,9 @@
 
 > [算法在线模拟](https://www.cs.usfca.edu/~galles/visualization/about.html)
 
-> [labuladong小抄](https://labuladong.gitee.io/algo/) 
+> [labuladong小抄](https://labuladong.gitee.io/algo/ "labuladong小抄") 
 
-> [prince li blog](https://princeli.com/?s)
+> [prince li blog](https://princeli.com/?s "prince li blog")
 
 ### github好的项目
 
@@ -57,7 +57,7 @@
 
 > [data analysis](https://github.com/wesm/pydata-book "data analysis")
 
-> [python面试基础题目](https://github.com/taizilongxu/interview_python,'python面试基础题目')
+> [python面试基础题目](https://github.com/taizilongxu/interview_python "python面试基础题目")
 
 ### python 三大神器的官网
 
