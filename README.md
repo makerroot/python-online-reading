@@ -47,6 +47,8 @@
 
 > [prince li blog](https://princeli.com/?s "prince li blog")
 
+> [great blog list](https://github.com/timqian/chinese-independent-blogs "great blog list")
+
 ### github好的项目
 
 > [分布式二](https://github.com/aphyr/distsys-class "分布式二")
