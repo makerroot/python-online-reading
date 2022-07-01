@@ -35,6 +35,8 @@
 
 > [docker学习](https://yeasy.gitbooks.io/docker_practice/ "docker学习")
 
+> [k8s学习](https://www.kubernetes.org.cn/docs "k8s学习")
+
 > [The Aha Moments](http://www.matrix67.com/blog/ "The Aha Moments")
 
 > [jonskeet](https://codeblog.jonskeet.uk/ "jonskeet")
@@ -81,10 +83,6 @@
 ### nginx教程
 
 > [Nginx从入门到精通](http://tengine.taobao.org/book/ "Nginx从入门到精通")
-
-### 阿里开源组件
-
-> [阿里开源组件](https://fusion.design/component/doc/102 "阿里开源组件")
 
 ### 动态规划问题
 
